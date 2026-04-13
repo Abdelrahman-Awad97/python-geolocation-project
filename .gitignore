@@ -1,0 +1,4 @@
+opengeo.sqlite
+where.js
+__pycache__/
+*.pyc
